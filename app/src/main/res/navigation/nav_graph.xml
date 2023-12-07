@@ -19,5 +19,6 @@
         android:id="@+id/nav_cnn"
         android:name="com.example.newsindo.presentation.CNN.BaseCnn"
         android:label="fragment_cnn"
+
         tools:layout="@layout/fragment_base_cnn" />
 </navigation>

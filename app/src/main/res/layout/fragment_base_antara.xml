@@ -17,7 +17,7 @@
         android:elevation="0dp"
         app:tabIndicatorColor="@color/on_primary"
         app:tabSelectedTextColor="@color/on_primary"
-        app:tabTextColor="@color/primary"
+        app:tabTextColor="@color/on_surface"
         app:layout_constraintTop_toTopOf="parent"/>
 
     <androidx.viewpager2.widget.ViewPager2

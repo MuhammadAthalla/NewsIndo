@@ -3,7 +3,8 @@
     <item
         android:id="@+id/nav_antara"
         android:icon="@drawable/ic_antara"
-        android:title="@string/antara"/>
+        android:title="@string/antara"
+        />
     <item
         android:id="@+id/nav_cnbc"
         android:icon="@drawable/ic_cnbc"
